@@ -9,4 +9,21 @@ public class ProblemCode {
 			count=count+x;
 		return count;
 	}
+	
+	public void somecode() {
+		
+		
+		int a=10;
+		int b=20;
+		for (int i=0;i<10;i++)
+			 a=a+b;
+		
+	}
+	public void someothercode()
+	{
+		int a=10;
+		int b=20;
+		for (int i=0;i<10;i++)
+			 a=a+b;
+	}
 }
